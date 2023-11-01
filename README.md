@@ -1,4 +1,4 @@
-# JS Bits
+! JS Bits
 
 JavaScript concepts explained with code.
 
@@ -55,3 +55,4 @@ Community contributions welcome :)
 * [String methods](js/string-methods.js)
 * [Styling](js/styling.js)
 * [this keyword](js/this-keyword.js)
+ 
